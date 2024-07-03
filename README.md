@@ -32,9 +32,13 @@ We have engineered various features to improve model accuracy:
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
 
+2. **Setup the environment**
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
+3. **Requirements**
 pip install streamlit scikit-learn fuzzywuzzy distance bs4
 
+### Run Application
+```sh
 streamlit run App.py
