@@ -1,4 +1,4 @@
-# Identification of Similar Question Pairs on Quora
+# Identification of Duplicate Question Pairs on Quora Using NLP
 
 This project focuses on identifying similar question pairs on Quora using advanced feature engineering techniques and machine learning models including Random Forest and XGBoost.
 
